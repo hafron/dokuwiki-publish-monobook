@@ -1,0 +1,2 @@
+dokuwiki-publish-monobook
+=========================
